@@ -4,3 +4,4 @@ openpyxl
 xlrd
 Pillow
 mysql-connector-python
+python-dotenv
